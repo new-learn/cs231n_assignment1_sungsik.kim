@@ -1,0 +1,1 @@
+# cs231n_assignment1_sungsik.kim
